@@ -10,5 +10,6 @@ public class Test {
         map.put("Khadija", 11);
 
         System.out.println(map.containsKey("Oma"));
+        System.out.println(map.keySet());
     }
 }
